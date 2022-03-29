@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Java Courses
-- 📫 How to reach me rajradhi81@gmail.com
+- 📫 How to reach me shanmukh2564@gmail.com
 
 <!---
 Shanmukh04/Shanmukh04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
